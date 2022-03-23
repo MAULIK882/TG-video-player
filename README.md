@@ -1,4 +1,4 @@
-<h1 align = "center"> 🎵 TG Video player bot 🎵 </h1>
+<h1 align = "center"> 🎵 TG Video player 🎵 </h1>
 
 <p align="center"><b> Video Bot is a Music powerfull bot for playing music (Video or Audio) on telegram voice chat groups. </b></p>
 
