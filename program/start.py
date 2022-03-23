@@ -75,9 +75,6 @@ async def start_(client: Client, message: Message):
                 ],
                 [
                     InlineKeyboardButton(
-                        "[► Official Group ◄]", url=f"https://t.me/{GROUP_SUPPORT}"
-                    ),
-                    InlineKeyboardButton(
                         "[► Official Channel ◄]", url=f"https://t.me/{UPDATES_CHANNEL}"
                     ),
                 ],
@@ -86,7 +83,7 @@ async def start_(client: Client, message: Message):
                 ],
                 [
                     InlineKeyboardButton(
-                        "🌐 Source Code", url="https://github.com/subhan-1/TG-video-player"
+                        "🌐 Source code", url="https://t.me/Subhan011/8"
                     )
                 ],
             ]
