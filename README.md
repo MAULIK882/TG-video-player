@@ -1,4 +1,4 @@
-<h1 align = "center"> 🎵 Video Bot 🎵 </h1>
+<h1 align = "center"> 🎵 TG Video player bot 🎵 </h1>
 
 <p align="center"><b> Video Bot is a Music powerfull bot for playing music (Video or Audio) on telegram voice chat groups. </b></p>
 
@@ -23,7 +23,7 @@ Can be found on Telegram as [Jennie Bot ❤](https://t.me/JennieKim1_bot)</br>
 ### 🔎 Support Inline Search
 
 ## 📊 Stats
-[![CodeFactor](https://www.codefactor.io/repository/github/Rishabhbhan4/video-Bot/badge)](https://www.codefactor.io/repository/github/Rishabhbhan4/video-Bot)
+[![CodeFactor](https://www.codefactor.io/repository/github/subhan-1/TG-video-player/badge)](https://www.codefactor.io/repository/github/subhan-1/TG-video-player)
 
 ## 🧪 Get `SESSION_NAME` from below:
 
