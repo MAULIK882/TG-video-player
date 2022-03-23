@@ -62,10 +62,8 @@ python3 main.py # run the bot.
 
 # Credits 💖
 
-- [Rishabh](https://github.com/Rishabhbhan4) ``Dev``
-- [Rishabh](https//gitHub.com/Rishabhbhan5) ``Dev``
-- [Veez Music](https://github.com/levina-lab/veezmusic) Veez Music
-------
+- [subhan](https://github.com/Rishabhbhan4) ``Dev``
+
 ## Telegram Support & Updates 🏢
-- [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/lisaSupportChat)
-- [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/JennieHelpBots)
+- [![Deloper](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/Subhan011)
+- [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/kd_botz)
